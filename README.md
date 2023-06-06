@@ -52,4 +52,4 @@ We appreciate your contributions and look forward to collaborating with you on a
 
 ### 💬 **Communication Channels**
 
-Will be added very soon 🔜
+Feel free to ask any questions or seek support by joining our Discord server: [Discord Link](https://discord.gg/gUPTSM8K). Tag the project maintainer for direct assistance.
